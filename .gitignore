@@ -1,0 +1,7 @@
+__pycache__/
+
+info
+*old*
+.venv*
+.env
+log.txt
